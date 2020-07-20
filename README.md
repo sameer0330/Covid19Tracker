@@ -1,6 +1,6 @@
 # Covid19Tracker
 This is a simple Covid-19 Tracker which uses VOLLEY library to get data from a REST Api.
-The app conatins intuituve graphs and statistics
+The app conatins intuitive graphs and statistics
 
 
 ![Screenshot_20200720-013505_Covid-19 Tracker](https://user-images.githubusercontent.com/65035554/87884471-fd484d80-ca2b-11ea-904d-2b2a26377b99.jpg)
